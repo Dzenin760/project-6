@@ -1,0 +1,283 @@
+.navbar {
+    background-color: black;
+    width: 100%;
+    height: 38px;
+    display: flex;
+    padding-top: 10px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.photo {
+    height: 17px;
+    margin-left: 852px;
+}
+
+p {
+    color: rgb(212, 220, 227);
+}
+
+.menu {
+    margin-left: 140px;
+    display: flex;
+    gap: 30px;
+}
+
+.photo1 {
+    height: 17px;
+    margin-left: 30px;
+}
+
+.logo {
+    margin-top: 40px;
+    margin-left: 140px;
+}
+
+.search-poisk {
+    width: 840px;
+    height: 50px;
+}
+
+.navbar-menu {
+    display: flex;
+}
+
+.logo {
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+
+.search {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.user {
+    margin-left: 80px;
+}
+
+.main-img {
+    margin-left: 120px;
+    max-width: 1440px;
+    height: 600px;
+    background-image: url(slider.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.btn {
+    margin-top: 20px;
+    box-shadow: 0px 5px 11px 2px rgba(0, 0, 0, 0.09);
+    width: 163px;
+    border: 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    height: 45px;
+    background-color: #fff;
+}
+
+.title {
+    font-size: 50px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+}
+
+.text {
+    padding-top: 16px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    color: black;
+}
+
+.advert {
+    padding-top: 100px;
+    margin-left: 120px;
+    max-width: 281px;
+}
+
+.btn:active {
+    scale: 1.1;
+}
+
+.box {
+    width: 159px;
+    display: flex;
+}
+
+.text1 {
+    padding-left: 10px;
+    color: black;
+}
+
+.all-top {
+    margin-left: 170px;
+    height: 70px;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.07);
+    background: rgb(255, 255, 255);
+    width: 1240px;
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.main-text {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color: red;
+}
+
+.image {
+    margin-left: 47px;
+    width: 1.27px;
+    height: 14px;
+}
+
+.photos {
+    width: 23px;
+    height: 23px;
+}
+
+.box1 {
+    padding-top: 25px;
+    padding-left: 100px;
+    display: flex;
+}
+
+.box {
+    padding-top: 25px;
+    padding-left: 100px;
+}
+
+.box:hover {
+    scale: 1.1;
+    transition: .7;
+}
+
+.boxer {
+    margin-top: 84px;
+    margin-left: 142px;
+    
+}
+.mini-boxer{
+    gap: 70px;
+    display: flex;
+}
+.card {
+   
+    width: 263px;
+    height: 344px;
+}
+
+.col {
+    display: flex;
+}
+
+.favourite {
+    width: 17.5px;
+    height: 15px;
+}
+
+.produse {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    color: rgb(65, 65, 65);
+}
+
+.text-clr {
+    padding-top: 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+.price {
+    padding-top: 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+.row {
+    padding-top: 32px;
+}
+
+.etc {
+    max-width: 1440px;
+    height: 1240px;
+}
+.container{
+    max-width: 1440px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+}
+ul li{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    list-style: none;
+    padding-top: 4px;
+    color: rgb(65, 65, 65);
+}
+.nav-title{
+    margin-bottom: 8px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+.keeper{
+    display: flex;
+    gap: 30px;
+}
+.big-title{
+    margin-left: 120px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    width: 60px;
+    height: 50px;
+}
+.title-bottom{
+    margin-bottom: 8px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    color: rgb(65, 65, 65);
+}
+.mainer{
+    display: flex;
+}
+.keeper-bottom{
+    margin-bottom: 20px;
+    margin-left: 887px;
+}
+.down-title{
+    display: flex;
+}
+.down-side{
+    display: flex;
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+.down-left{
+    margin-left: 732px;
+    gap: 30px;
+    display: flex;
+}
+.down-right{
+    gap: 30px;
+    display: flex;
+}
+.text-d{
+    color: black;
+}
+.down-text{
+    color: rgb(215, 68, 68);
+}
+.down-text1{
+    color: black;
+}
+.down-img{
+    width: 20px;
+    height: 20px;
+}

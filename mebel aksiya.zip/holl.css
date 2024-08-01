@@ -1,0 +1,291 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.search-poisk {
+    width: 550px;
+    height: 40px;
+}
+
+.navbar-top {
+    gap: 40px;
+    height: 40px;
+    margin-left: 70px;
+    margin-top: 59px;
+    display: flex;
+}
+
+.bring {
+    margin-left: 100px;
+    margin-top: 8px;
+    display: flex;
+}
+
+.dostavka {
+    width: 30px;
+    height: 17px;
+}
+
+a {
+    display: flex;
+    text-decoration: none;
+    color: inherit;
+}
+
+.conteiner {
+    max-width: 1240px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.user {
+    margin-left: 40px;
+    width: 111px;
+    height: 18px;
+}
+
+.logotype {
+    display: flex;
+}
+
+.text-dos {
+    margin-left: 10px;
+}
+
+.logo-div {
+    display: flex;
+}
+
+.menuicon {
+    margin-top: 10px;
+    margin-right: 40px;
+    width: 21px;
+    height: 12px;
+}
+
+.logo {
+    margin-right: 100px;
+    width: 125px;
+    height: 30px;
+}
+
+.search {
+    display: flex;
+}
+
+.lupa {
+    margin-right: 8px;
+    margin-top: 8px;
+    width: 18px;
+    height: 18px;
+}
+
+.all-top {
+    margin-left: 50px;
+    height: 70px;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.07);
+    background: rgb(255, 255, 255);
+    width: 1240px;
+    display: flex;
+    margin-top: 30px;
+}
+
+.box {
+    padding-top: 25px;
+    padding-left: 100px;
+    width: 159px;
+    display: flex;
+}
+
+.text1 {
+    padding-left: 10px;
+    color: black;
+}
+
+.photos {
+    width: 23px;
+    height: 23px;
+}
+
+.box1 {
+    padding-top: 25px;
+    padding-left: 100px;
+    display: flex;
+}
+
+.image {
+    margin-left: 47px;
+    width: 2.27px;
+    height: 14px;
+}
+
+.box2 {
+    padding-top: 25px;
+    padding-left: 100px;
+    width: 200px;
+    display: flex;
+}
+
+.big-img {
+    position: relative;
+    display: flex;
+    top: 50px;
+    left: 45px;
+    max-width: 1440px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(bg-slider-sofa.png);
+}
+
+.sofaa {
+    position: absolute;
+    top: 50px;
+    right: 15px;
+    width: 750px;
+    height: 450px;
+}
+
+.title-bg {
+    padding-left: 43px;
+    padding-top: 130px;
+    font-size: 45px;
+   height: 60px;
+   width: 500px;
+    color: rgb(255, 255, 255);
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+}
+.btn{
+    margin-left: 43px;
+    margin-top: 150px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    width: 240px;
+    font-size: 21px;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    border: 0;
+}
+.btn:active{
+    scale: 1.1;
+}
+.box:hover{
+    scale: 1.1;
+}
+.card {
+    margin-right: 130px;
+    width: 263px;
+    height: 344px;
+}
+
+.col {
+    display: flex;
+}
+
+.favourite {
+    width: 17.5px;
+    height: 15px;
+}
+.text-clr {
+    padding-top: 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+.price {
+    padding-top: 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+
+.row {
+    padding-top: 32px;
+}
+.mini-boxer{
+    gap: 80px;
+    margin-left: 100px;
+    display: flex;
+}
+.boxer{
+    margin-top: 100px;
+}
+ul li{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    list-style: none;
+    padding-top: 4px;
+    color: rgb(65, 65, 65);
+}
+.nav-title{
+    margin-bottom: 8px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+}
+.keeper{
+    display: flex;
+    gap: 30px;
+}
+.big-title{
+    margin-left: 120px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    width: 60px;
+    height: 50px;
+}
+.title-bottom{
+    margin-bottom: 8px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    color: rgb(65, 65, 65);
+}
+.mainer{
+    display: flex;
+}
+.keeper-bottom{
+    margin-bottom: 20px;
+    margin-left: 687px;
+}
+.down-img{
+    margin-right: 20px;
+    width: 20px;
+    height: 20px;
+}
+.down-title{
+   display: flex;
+}
+
+.down-side{
+    display: flex;
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+.down-left{
+    margin-left: 532px;
+    gap: 30px;
+    display: flex;
+}
+.down-right{
+    gap: 30px;
+    display: flex;
+}
+.text-d{
+    display: flex;
+    color: black;
+}
+.down-text{
+    color: rgb(215, 68, 68);
+}
+.down-text1{
+    color: black;
+}
+.down-img{
+    margin-right: 4px;
+}
+.navbar-bottom{
+    margin-left: 50px;
+}
